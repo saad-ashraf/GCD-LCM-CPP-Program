@@ -6,7 +6,7 @@
 #include<algorithm>
 using namespace std;
 
-                     //     GCD FOR 2 NUMBER
+                     //    Here code of GCD FOR 2 NUMBER
 int gcd2()
 {
 	int n1, n2;
