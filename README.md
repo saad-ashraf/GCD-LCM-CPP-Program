@@ -5,4 +5,4 @@
 Complete Project of GCD and LCM.
 
 
-Work collaboration with Saad and Zubair.
+Work collaboration with Zubair and Saad.
